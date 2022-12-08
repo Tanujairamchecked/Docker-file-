@@ -1,4 +1,4 @@
-FROM mogashan/Tanujairam-TG:latest
+FROM mogashan/Tanujairam-TG:latest 
 
 WORKDIR /usr/src/app
 
